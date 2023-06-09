@@ -1,8 +1,8 @@
 <?php 
-define('DB_HOST', 'localhost'); 
-define('DB_USERNAME', 'harshit'); 
-define('DB_PASSWORD', 'Harshit@1144'); 
-define('DB_NAME', 'tracko');
+define('DB_HOST', 'HOSTNAME'); 
+define('DB_USERNAME', 'USERNAME'); 
+define('DB_PASSWORD', 'PASSWORD'); 
+define('DB_NAME', 'DBNAME');
 
 
 // Connect with the database 
