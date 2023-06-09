@@ -1,8 +1,8 @@
 <?php
-$db_host="p3nlmysql11plsk.secureserver.net:3306";
-$db_user="forestfiresystem";
-$db_password="Fsystem123*";
-$db_name="forestfiresystem";
+$db_host="HOSTNAME";
+$db_user="USERNAME";
+$db_password="PASSWORD";
+$db_name="USERNAME";
 
 $lat=$_GET['lat'];
 $lng=$_GET['lng'];
