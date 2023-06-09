@@ -1,8 +1,8 @@
 <?php
-$db_host="p3nlmysql11plsk.secureserver.net:3306";
-$db_user="forestfiresystem";
-$db_password="Fsystem123*";
-$db_name="forestfiresystem";
+$db_host="HOSTNAME";
+$db_user="USERNAME";
+$db_password="PASSWORD*";
+$db_name="DBNAME";
 
 
 $conn=mysqli_connect($db_host,$db_user,$db_password,$db_name);
